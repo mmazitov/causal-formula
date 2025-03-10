@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background: #edf0f2;
+	display: inherit;
+}
+#root {
+	width: 100%;
+	color: #000;
+	padding: 0 10px;
+}
